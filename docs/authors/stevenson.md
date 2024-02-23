@@ -1,1 +1,2 @@
-
+![Kevin Stevenson](Stevenson.png){ class=avatar }
+Dr. Kevin Stevenson is a Staff Astronomer at Johns Hopkins Applied Physics Laboratory (APL). He enjoys working in the phase space overlapping planetary sciences, astrophysics, and astrobiology.  He is the PI of [CHAMPs](https://champs.jhuapl.edu/), an interdisciplinary research team whose goal is to understand if M-dwarf planets can support life and how best to characterize them. He is also the PI of a large JWST Cycle 1 program to determine the prevalence of atmospheres around terrestrial planets orbiting nearby M-dwarf stars.
