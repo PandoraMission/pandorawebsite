@@ -75,7 +75,7 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Andrew Mann"
     {%include-markdown "authors/mann.md"%}
 
-!!! people "Megan Mansfield"
+!!! people "Megan Weiner Mansfield"
     {%include-markdown "authors/mansfield.md"%}
 
 !!! people "Brett Morris"
