@@ -64,7 +64,7 @@ The Pandora team is made up of various researchers and engineers from across NAS
     {%include-markdown "authors/holcomb.md"%}
 
 !!! people "Ben Hord"
-    {%include-markdown "authors/hord.md"%}
+    {%include-markdown "authors/hord.md"%} 
 
 !!! people "Veselin Kostov"
     {%include-markdown "authors/kostov.md"%}
