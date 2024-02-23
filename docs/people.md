@@ -96,11 +96,11 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Josh Schlieder"
     {%include-markdown "authors/schlieder.md"%}
 
-!!! people "Pete Supsinskas"
-    {%include-markdown "authors/supsinskas.md"%}
-
 !!! people "Kevin Stevenson"
     {%include-markdown "authors/stevenson.md"%}
+
+!!! people "Pete Supsinskas"
+    {%include-markdown "authors/supsinskas.md"%}
 
 !!! people "Allison Youngblood"
     {%include-markdown "authors/youngblood.md"%}
