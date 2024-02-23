@@ -1,4 +1,3 @@
 ![Knicole Colon](Colon.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Dr. Knicole Colón is a research astrophysicist based at NASA’s Goddard Space Flight Center. She has held various roles on NASA missions over the years, most recently serving as the Pandora Project Scientist, TESS Project Scientist, and JWST Deputy Project Scientist for Exoplanet Science. Her research interests include the study of extreme exoplanets, like the super puffy planet KELT-11b, the disintegrating planet K2-22b, and planets on highly eccentric orbits like HD 80606b. Her experience includes using optical and infrared and ground and space facilities to study such exoplanets. 
+
