@@ -36,6 +36,9 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Jessie Christiansen: Archive Scientist"
     {%include-markdown "authors/christiansen.md"%}
 
+!!! people "Robert Zellem: Ground-based Sub-working Group Lead"
+    {%include-markdown "authors/zellem.md"%}
+
 !!! people "Natalie Allen"
     {%include-markdown "authors/allen.md"%}
 
@@ -56,6 +59,9 @@ The Pandora team is made up of various researchers and engineers from across NAS
 
 !!! people "Kelsey Hoffman"
     {%include-markdown "authors/hoffman.md"%}
+
+!!! people "Rae Holcomb"
+    {%include-markdown "authors/holcomb.md"%}
 
 !!! people "Ben Hord"
     {%include-markdown "authors/hord.md"%}
@@ -92,6 +98,9 @@ The Pandora team is made up of various researchers and engineers from across NAS
 
 !!! people "Pete Supsinskas"
     {%include-markdown "authors/supsinskas.md"%}
+
+!!! people "Kevin Stevenson"
+    {%include-markdown "authors/stevenson.md"%}
 
 !!! people "Allison Youngblood"
     {%include-markdown "authors/youngblood.md"%}
