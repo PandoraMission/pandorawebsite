@@ -82,6 +82,6 @@ The NASA Astrophysics Explorers program (with the SMOOs and SmEx and MidEx): <ht
        include-markdown "../authors/christensen.md"
     %}
 
-        {%
+    {%
        include-markdown "../authors/lewis.md"
     %}
