@@ -6,7 +6,7 @@ There are many steps to making a NASA mission happen, and one of the first is pr
 
 ![Pandora Logo](blog2/logo-blacktext-blue.png)
 
-Caption: _Pandora_ project logo. Image Credits: NASA/Pandora/Elisa Quintana. \[Note: needs to go over a dark background!\]
+Caption: _Pandora_ project logo. Image Credits: NASA/Pandora/Elisa Quintana. 
 
 **Jessie**: Can you describe your first conversations with Tom \[Barclay\] and Josh \[Schleider\] about what would become _Pandora_? When did the idea first come to you?
 
