@@ -1,6 +1,6 @@
 # People behind Pandora
 
-The Pandora team is made up of various researchers and engineers from across NASA and Lawrence Livermore National Labs.
+The Pandora team is made up of various researchers and engineers from across NASA institutions, Lawrence Livermore National Labs, multiple research centers and universities, encompassing both senior and early-career researchers. 
 
 
 !!! people "Elisa Quintana: Principle Investigator"
