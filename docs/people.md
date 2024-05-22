@@ -43,7 +43,7 @@ The Pandora team is made up of various researchers and engineers from across NAS
     {%include-markdown "authors/allen.md"%}
 
 !!! people "Jessie Christiansen"
-{%include-markdown "authors/christiansen.md"%}
+    {%include-markdown "authors/christiansen.md"%}
 
 !!! people "Néstor Espinoza"
     {%include-markdown "authors/espinoza.md"%}
