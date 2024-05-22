@@ -33,14 +33,17 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Jason Rowe: Auxiliary Science Lead"
     {%include-markdown "authors/rowe.md"%}
 
-!!! people "Jessie Christiansen: Archive Scientist"
-    {%include-markdown "authors/christiansen.md"%}
+!!! people "Aurora Kesseli: Archive Scientist"
+    {%include-markdown "authors/kesseli.md"%}
 
 !!! people "Robert Zellem: Ground-based Sub-working Group Lead"
     {%include-markdown "authors/zellem.md"%}
 
 !!! people "Natalie Allen"
     {%include-markdown "authors/allen.md"%}
+
+!!! people "Jessie Christiansen"
+{%include-markdown "authors/christiansen.md"%}
 
 !!! people "Néstor Espinoza"
     {%include-markdown "authors/espinoza.md"%}
