@@ -1,4 +1,3 @@
 ![Christina Hedges](Hedges.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+
+Dr. Christina Hedges is the Lead Pipeline Scientist for the Pandora smallsat mission, where she is tasked with building the science pipeline to extract transmission spectra from the raw data. Dr. Hedges is also the Deputy Lead for the General Investigator Office for NASA’s TESS mission at the NASA Goddard Space Flight Center, where she leads a team of scientists to support the astronomy community. Previously, Dr. Hedges has worked as a support scientist for the NASA Kepler/K2 mission at NASA Ames Research Center. Her key science interests are exoplanet discovery and characterization and stellar activity, and her work focuses on novel data analysis methods for working close to the noise limit of space-based telescopes. Dr. Hedges recieved her PhD from the University of Cambridge in 2018. 
