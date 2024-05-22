@@ -21,7 +21,7 @@ nav:
     - Target List: targets.md
     - Blog:
       - blogposts/blogpost1.md
-      - blogposts/blogpost2.md
+      - blogposts/blogpost2.md 
     - People : people.md
 
 theme:
