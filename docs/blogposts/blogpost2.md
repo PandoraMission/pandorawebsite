@@ -2,13 +2,13 @@
 
 *May 22nd, 2024. Author: Jessie Christiansen.*
 
-_Welcome to_ [_the Pandora mission_](https://www.nasa.gov/feature/goddard/2021/pandora-mission-would-expand-nasa-s-capabilities-in-probing-alien-worlds) _blog! In this series of blog posts, we’ll be telling you the story of the mission from its conception through development, and all the way through launch and the first science results. Our goal is to record the journey of Pandora, while demystifying the process and effort of designing a NASA mission for early career scientists, and showcasing our amazing science team. Thanks for reading, and feel free to ask any questions or leave any comments below!_
-
-There are many steps to making a NASA mission happen, and one of the first is proposing — submitting a formal description of the idea and plans to be considered for funding. In our second installment, we present an interview from _Pandora_ [Archive Scientist Jessie Christiansen](https://web.ipac.caltech.edu/staff/christia/) with _Pandora_ [Principal Investigator (PI) Elisa Quintana](https://solarsystem.nasa.gov/people/313/elisa-quintana/), discussing the process of proposing the mission now known as _Pandora_.
+There are many steps to making a NASA mission happen, and one of the first is proposing — submitting a formal description of the idea and plans to be considered for funding. **In our second installment, we present an interview from _Pandora_ [Archive Scientist Jessie Christiansen](https://web.ipac.caltech.edu/staff/christia/) with _Pandora_ [Principal Investigator (PI) Elisa Quintana](https://solarsystem.nasa.gov/people/313/elisa-quintana/), discussing the process of proposing the mission now known as _Pandora_.**
 
 ![Pandora Logo](blog2/logo-blacktext-blue.png)
 
 Caption: _Pandora_ project logo. Image Credits: NASA/Pandora/Elisa Quintana. 
+
+_Welcome to_ [_the Pandora mission_](https://www.nasa.gov/feature/goddard/2021/pandora-mission-would-expand-nasa-s-capabilities-in-probing-alien-worlds) _blog! In this series of blog posts, we’ll be telling you the story of the mission from its conception through development, and all the way through launch and the first science results. Our goal is to record the journey of Pandora, while demystifying the process and effort of designing a NASA mission for early career scientists, and showcasing our amazing science team. Thanks for reading, and feel free to ask any questions or leave any comments below!_
 
 **Jessie**: Can you describe your first conversations with Tom \[Barclay\] and Josh \[Schleider\] about what would become _Pandora_? When did the idea first come to you?
 
