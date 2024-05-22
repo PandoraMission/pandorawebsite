@@ -75,3 +75,13 @@ Wallops Mission Planning Lab: <https://sites.wff.nasa.gov/mpl/>
 The NASA Astrophysics Explorers program (with the SMOOs and SmEx and MidEx): <https://science.nasa.gov/astrophysics/programs/astrophysics-explorers>
 
 <!--- Pandora logo: attached (it’s transparent so needs to go over a darker background!) -->
+
+!!! author "About the Author"
+
+    {%
+       include-markdown "../authors/christensen.md"
+    %}
+
+        {%
+       include-markdown "../authors/lewis.md"
+    %}
