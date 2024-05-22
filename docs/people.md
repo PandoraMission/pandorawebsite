@@ -69,6 +69,9 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Ben Hord"
     {%include-markdown "authors/hord.md"%} 
 
+!!! people "Aishwarya Iyer "
+    {%include-markdown "authors/iyer.md"%}
+
 !!! people "Veselin Kostov"
     {%include-markdown "authors/kostov.md"%}
 
@@ -104,6 +107,9 @@ The Pandora team is made up of various researchers and engineers from across NAS
 
 !!! people "Pete Supsinskas"
     {%include-markdown "authors/supsinskas.md"%}
+
+!!! people "Lindsey Wiser"
+    {%include-markdown "authors/wiser.md"%}
 
 !!! people "Allison Youngblood"
     {%include-markdown "authors/youngblood.md"%}
