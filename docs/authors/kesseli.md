@@ -1,3 +1,3 @@
-![Aurora Kesseli](000.png){ class=avatar }
+![Aurora Kesseli](Kesseli.jpeg){ class=avatar }
 
 Dr. Aurora Kesseli is a Staff Scientist at the NASA Exoplanet Science Institute, and works to support the NASA Exoplanet Archive. Her research aims to understand how close in gas giant planets formed and evolved over time, and what dynamical processes that are occuring in their exotic atmospheres. Aurora mainly uses transmission and emission spectroscopy, performed with high resolution optical and infrared ground-based spectrographs, to answer these questions. As a member of the PANDORA team, Aurora will work on creating a data archiving interface to facilitate easy data access for the community and oversee PANDORA data releases. 
