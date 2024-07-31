@@ -1,4 +1,2 @@
-![Jordan Karburn](Blank.png){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+![Jordan Karburn](Karburn.png){ class=avatar }
+Jordan Karburn is the Deputy Project Manager of Pandora at Lawrence Livermore National Laboratory. He is the Principal Investigator of the CODA — named after the Led Zeppelin song — an all-aluminum telescope that will be mounted on Pandora.
