@@ -2,6 +2,7 @@
 
 ![](assets/topboxV10.png){: .center}
 
+----
 ## Science Justification
 
 Transmission spectroscopy is one of the primary ways we learn about the compositions and climates of exoplanets. Stellar brightness variations due to star spots and faculae, however, can contaminate these measurements. Pandora's goal is to disentangle star and planet signals in transmission spectra to reliably determine exoplanet atmosphere compositions. This is broken into two goals:
@@ -11,12 +12,14 @@ Transmission spectroscopy is one of the primary ways we learn about the composit
  
 Pandora will observe at least 20 exoplanets over long durations (~10 transits per planet) with sizes ranging from Earth-size to Jupiter-size and host stars spanning mid-K to late-M spectral types.
 
+----
 ## What is Pandora
 
 The Pandora SmallSat was selected as an inaugural NASA Astrophysics Pioneers mission in 2021, and it will launch in 2025 as a secondary payload in Sun-synchronous low-Earth orbit. It consists of a 0.45-meter telescope and instrumentation for simultaneous near-infrared spectroscopy and visible-light photometry. These wavelengths will provide constraints on the spot and faculae covering fractions of low-mass exoplanet host stars and the impact of these active regions on exoplanetary transmission spectra. 
 
 SmallSats are incredibly valuable for developing the next generation of space mission leaders. By design, Pandora has a diverse team, with over half of the mission leadership roles filled by early-career scientists and engineers.   
 
+----
 ## Pandora schedule
 
 The Pandora mission will complete the science objectives proposed, archive the data, and publish results within a 5-year timeline. Launch would occur in the mid-2020s, although the precise timeline is dependent on a ride-sharing agreement.
@@ -27,6 +30,7 @@ Pandora is expected to operate concurrently with JWST. JWST has four science ins
 
 ![](assets/timeline_comparison.png){: .center}
 
+----
 ## Pandora Payload
 
 ![](assets/Payload_figure3.png){: .center}
