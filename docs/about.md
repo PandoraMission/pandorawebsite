@@ -33,6 +33,6 @@ Pandora is expected to operate concurrently with JWST. JWST has four science ins
 ----
 ## Pandora Payload
 
-![](assets/Payload_figure3.png){: .center}
+![](assets/pandora-telescope-schematics.jpg){: .center}
 
 The Pandora payload is built around an all-aluminum 0.45-m Cassegrain telescope design. The telescope is designed to address the challenge of procuring high-performing imaging space systems in a ride-sharing form-factor that are low cost and have rapid acquisition. To help address these challenges, the telescope design minimizes space-vehicle dependencies and maximizes customizability of the aft optics to accommodate a variety of optical configurations. Compared to traditional glass optics, aluminum telescopes are more suited to large-scale manufacturing and batch production. Combined with mechanical interfaces that are machined in parallel with optical surfaces, the telescope has a significant cost- and schedule- advantage over other designs.
