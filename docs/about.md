@@ -6,8 +6,8 @@
 
 Transmission spectroscopy is one of the primary ways we learn about the compositions and climates of exoplanets. Stellar brightness variations due to star spots and faculae, however, can contaminate these measurements. Pandora's goal is to disentangle star and planet signals in transmission spectra to reliably determine exoplanet atmosphere compositions. This is broken into two goals:
 
-    * Determine the spot and faculae covering fractions of low-mass exoplanet host stars and the impact of these active regions on exoplanetary transmission spectra.
-    * Identify exoplanets with hydrogen- or water-dominated atmospheres, and determine which planets are covered by clouds and hazes.
+   - Determine the spot and faculae covering fractions of low-mass exoplanet host stars and the impact of these active regions on exoplanetary transmission spectra.
+   - Identify exoplanets with hydrogen- or water-dominated atmospheres, and determine which planets are covered by clouds and hazes.
  
 Pandora will observe at least 20 exoplanets over long durations (~10 transits per planet) with sizes ranging from Earth-size to Jupiter-size and host stars spanning mid-K to late-M spectral types.
 
