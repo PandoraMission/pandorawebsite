@@ -15,7 +15,7 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Thomas Barclay: Deputy Project Scientist"
     {%include-markdown "authors/barclay.md"%}
 
-!!! people "Jordan Karburn"
+!!! people "Jordan Karburn: Deputy Project Manager"
     {%include-markdown "authors/karburn.md"%}
 
 !!! people "James Mason: Mission Operations Support"
