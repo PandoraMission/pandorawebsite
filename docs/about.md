@@ -2,11 +2,18 @@
 
 ![](assets/topboxV10.png){: .center}
 
+## Science Justification
+
+Transmission spectroscopy is one of the primary ways we learn about the compositions and climates of exoplanets. Stellar brightness variations due to star spots and faculae, however, can contaminate these measurements. Pandora's goal is to disentangle star and planet signals in transmission spectra to reliably determine exoplanet atmosphere compositions. This is broken into two goals: 
+  - Determine the spot and faculae covering fractions of low-mass exoplanet host stars and the impact of these active regions on exoplanetary transmission spectra.
+  - Identify exoplanets with hydrogen- or water-dominated atmospheres, and determine which planets are covered by clouds and hazes.
+Pandora will observe at least 20 exoplanets over long durations (~10 transits per planet) with sizes ranging from Earth-size to Jupiter-size and host stars spanning mid-K to late-M spectral types.
+
 ## What is Pandora
 
-Pandora is a SmallSat mission designed to study the atmospheres of exoplanets, and was selected as part of NASA's Astrophysics Pioneers Program. Transmission spectroscopy of transiting exoplanets provides our best opportunity to identify the makeup of planetary atmospheres in the coming decade. Stellar brightness variations due to star spots, however, can impact these measurements and contaminate the observed spectra. Pandora's goal is to disentangle star and planet signals in transmission spectra to reliably determine exoplanet atmosphere compositions. Pandora will collect long-duration photometric observations with a visible-light channel and simultaneous spectra with a near-IR channel. The broad-wavelength coverage will provide constraints on the spot and faculae covering fractions of low-mass exoplanet host stars and the impact of these active regions on exoplanetary transmission spectra. Pandora will subsequently identify exoplanets with hydrogen- or water-dominated atmospheres, and robustly determine which planets are covered by clouds and hazes. Pandora will observe at least 20 exoplanets with sizes ranging from Earth-size to Jupiter-size and host stars spanning mid-K to late-M spectral types.
+The Pandora SmallSat was selected as an inaugural NASA Astrophysics Pioneers mission in 2021, and it will launch in 2025 as a secondary payload in Sun-synchronous low-Earth orbit. It consists of a 0.45-meter telescope and instrumentation for simultaneous near-infrared spectroscopy and visible-light photometry. These wavelengths will provide constraints on the spot and faculae covering fractions of low-mass exoplanet host stars and the impact of these active regions on exoplanetary transmission spectra. 
 
-The project is made possible by leveraging investments in other projects, including an all-aluminum 0.45-meter Cassegrain telescope design, and a NIR sensor chip assembly from the James Webb Space Telescope. The mission will last five years from initial formulation to closeout, with one-year of science operations. Launch is planned for the mid-2020s as a secondary payload in Sun-synchronous low-Earth orbit. By design, Pandora has a diverse team, with over half of the mission leadership roles filled by early career scientists and engineers, demonstrating the high value of SmallSats for developing the next generation of space mission leaders.    
+SmallSats are incredibly valuable for developing the next generation of space mission leaders. By design, Pandora has a diverse team, with over half of the mission leadership roles filled by early-career scientists and engineers.   
 
 ## Pandora schedule
 
