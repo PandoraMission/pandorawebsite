@@ -36,7 +36,7 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Aurora Kesseli: Archive Scientist"
     {%include-markdown "authors/kesseli.md"%}
 
-!!! people "Robert Zellem: Ground-based Sub-working Group Lead"
+!!! people "Rob Zellem: Ground-based Sub-working Group Lead"
     {%include-markdown "authors/zellem.md"%}
 
 !!! people "Natalie Allen"
