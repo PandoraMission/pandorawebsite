@@ -21,24 +21,24 @@ The planetary systems composite tables on the [NASA Exoplanet Archive](https://e
 
 In order to help prioritize which exoplanets Pandora should observe, the Transmission Spectroscopy Metric (TSM, [Kempton, et al. 2018](https://ui.adsabs.harvard.edu/abs/2018PASP..130k4401K/abstract)) is computed for each planet meeting the above criteria. This metric provides an indicator of how strong of a spectral signal a planet’s atmosphere would provide relative to that of other planets. The TSM follows the equation:
 
-```math
+$$
 TSM = (Scale factor) \times \frac{R^{3}_{p}T_{eq}}{M_{p}R^{2}_{*}} \times 10^{-m_{J}/5}
-```
+$$
 
-where $`R_{p}`$ is the radius of the planet in units of Earth radii, $`M_{p}`$ is the mass of the planet in units of Earth masses, $`R_{*}`$ is the radius of the host star in units of Solar radii, $`m_{J}`$ is the apparent magnitude of the host star in J band, the scale factor is a normalization constant to scale the metric to JWST simulations performed by [Louie, et al. 2018](https://ui.adsabs.harvard.edu/abs/2018AAS...23112806L/abstract), and $`T_{eq}`$ is the planet’s equilibrium temperature in Kelvin calculated for zero albedo and full day-night heat redistribution according to
+where $R_{p}$ is the radius of the planet in units of Earth radii, $M_{p}$ is the mass of the planet in units of Earth masses, $R_{*}$ is the radius of the host star in units of Solar radii, $m_{J}$ is the apparent magnitude of the host star in J band, the scale factor is a normalization constant to scale the metric to JWST simulations performed by [Louie, et al. 2018](https://ui.adsabs.harvard.edu/abs/2018AAS...23112806L/abstract), and $T_{eq}$ is the planet’s equilibrium temperature in Kelvin calculated for zero albedo and full day-night heat redistribution according to
 
-```math
+$$
 T_{eq} = T_{*}\sqrt{\frac{R_{*}}{a}}\left( \frac{1}{4} \right)^{1/4}
-```
+$$
 
-where $`T_{*}`$ is the host star effective temperature in Kelvin and $`a`$ is the orbital semi-major axis given in the same units as $`R_{*}`$.
+where $T_{*}$ is the host star effective temperature in Kelvin and $a$ is the orbital semi-major axis given in the same units as $R_{*}$.
 
 The TSM provides a good indicator of how observable a planet’s atmospheric features will be, but Pandora aims to measure the stellar activity of a diverse range of host stars. Therefore, the Pandora Science Team developed a separate Signal Detection Metric (SDM) to incorporate stellar rotation period into the target list prioritization. The SDM is defined as
 
-```math
+$$
 SDM = TSM \times (1+wA)
-```
+$$
 
-where TSM is the transmission spectroscopy metric as stated above, $`A`$ is the peak-to-peak amplitude of variability, and $`w`$ is a weighting factor such that a $`w`$ of 100 effectively doubles the metric for a star with $`A`$=1%.
+where TSM is the transmission spectroscopy metric as stated above, $A$ is the peak-to-peak amplitude of variability, and $w$ is a weighting factor such that a $w$ of 100 effectively doubles the metric for a star with $A$=1%.
 
 All exoplanets that meet the observational restrictions are ranked by SDM to produce the target lists shown here. The planets with the top 20 SDM values make up the primary targets list and those with the 21st-40th best SDM values make up the secondary target list.
