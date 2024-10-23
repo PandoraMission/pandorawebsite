@@ -44,6 +44,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
   - attr_list
   - md_in_html
 plugins:
@@ -54,5 +56,7 @@ plugins:
 ## Custom theme additions
 extra_javascript:
         - 'stylesheets/extra.js'
+        - stylesheets/mathjax.js
+        - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 extra_css:
         - stylesheets/extra.css
