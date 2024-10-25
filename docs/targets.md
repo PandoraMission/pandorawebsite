@@ -33,7 +33,7 @@ $$
 
 where $T_{*}$ is the host star effective temperature in Kelvin and $a$ is the orbital semi-major axis given in the same units as $R_{*}$.
 
-The TSM provides a good indicator of how observable a planet’s atmospheric features will be, but Pandora aims to measure the stellar activity of a diverse range of host stars. Therefore, the Pandora Science Team developed a separate Signal Detection Metric (SDM) to incorporate stellar rotational variability into the target list prioritization. The SDM is defined as
+The TSM provides a good indicator of how observable a planet’s atmospheric features will be, but Pandora also aims to measure the stellar activity of a diverse range of host stars. Therefore, the Pandora Science Team developed a separate Signal Detection Metric (SDM) to incorporate stellar rotational variability into the target list prioritization. The SDM is defined as
 
 $$
 SDM = TSM \times (1+wA)
