@@ -1,4 +1,2 @@
 ![Kelsey Hoffman](Hoffman.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Dr. Kelsey Hoffman is a Post-Doctoral Research Scientist for Kepler at the SETI Institute.
