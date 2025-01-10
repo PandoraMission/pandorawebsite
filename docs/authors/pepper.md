@@ -1,4 +1,2 @@
 ![Josh Pepper](Pepper.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Joshua Pepper is a Program Scientist for APD and professor in the Physics Department at Lehigh University in Bethlehem, PA. He is a Deputy Program Scientist for the Exoplanet Exploration Program (ExEp), Deputy Program Officer for the Astrophysics Data Analysis Program (ADAP), and is the Program Scientist for the Transiting Exoplanet Survey Satellite (TESS) mission. He also works on the Time Domain And Multi-Messenger (TDAMM) program and the NASA Open-Source Science Initiative.
