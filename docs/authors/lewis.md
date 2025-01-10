@@ -1,4 +1,2 @@
 ![Nikole Lewis](Lewis.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Nikole K. Lewis is an Exoplanetary Scientist and Associate Professor in the Department of Astronomy at Cornell University. Professor Lewis’ work focuses on probing exoplanet atmospheres using a combination of observational and theoretical techniques. Her current research includes work with both space- and ground-based campaigns to measure spectra and photometry of exoplanet atmospheres as well as the development of one-, two-, and three-dimensional models to guide and interpret those observations. She is also interested in laboratory work that provides constraints on key atmospheric processes such as cloud and haze formation and the development of instrumentation for facilities that aim to characterize exoplanets and their environs.
