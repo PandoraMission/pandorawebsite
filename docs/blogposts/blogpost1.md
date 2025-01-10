@@ -121,8 +121,3 @@ Going from a sketch on a whiteboard of a mirror to actually having a [CAD model]
 **Tom:** I mean, I've been theoretically designing what this instrument is going to be and what it's going to look like and coming up with what the data is going to be like. And the next phase is we're going to start with buying components, we're putting them together, we're testing things.
 
 **Josh:** You know, I've been just infatuated with rocket launches. And so I'm really looking forward to the day when Pandora is built and tested and put together and it's attached to some rocket and where we're just sitting there counting down and waiting to see that happen.
-
-
-!!! author "About the Author"
-
-    {% include docs/authors/blewis.md %}
