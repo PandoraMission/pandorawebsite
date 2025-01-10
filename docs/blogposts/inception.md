@@ -17,9 +17,3 @@ Turpis massa tincidunt dui ut ornare lectus sit. Varius morbi enim nunc faucibus
 ### Subsection Title
 
 Nec ullamcorper sit amet risus nullam eget felis eget. Condimentum vitae sapien pellentesque habitant morbi tristique. Integer vitae justo eget magna fermentum iaculis eu non. Sed lectus vestibulum mattis ullamcorper velit. Purus non enim praesent elementum facilisis leo. Nunc congue nisi vitae suscipit tellus mauris a. At consectetur lorem donec massa sapien faucibus. Placerat in egestas erat imperdiet. Adipiscing commodo elit at imperdiet. Dolor sit amet consectetur adipiscing elit pellentesque. Turpis cursus in hac habitasse. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Vulputate ut pharetra sit amet aliquam id diam maecenas. Vitae ultricies leo integer malesuada nunc vel risus.
-
-!!! author "Spotlight"
-
-    {%
-       include-markdown "../authors/hedges.md"
-    %}
