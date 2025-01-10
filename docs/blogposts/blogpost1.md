@@ -125,6 +125,4 @@ Going from a sketch on a whiteboard of a mirror to actually having a [CAD model]
 
 !!! author "About the Author"
 
-    {%
-       include-markdown "../authors/blewis.md"
-    %}
+    {% include docs/authors/blewis.md %}
