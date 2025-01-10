@@ -96,9 +96,6 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Elizabeth Newton"
     {%include-markdown "authors/newton.md"%}
 
-!!! people "Josh Pepper"
-    {%include-markdown "authors/pepper.md"%}
-
 !!! people "Josh Schlieder"
     {%include-markdown "authors/schlieder.md"%}
 
