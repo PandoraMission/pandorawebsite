@@ -1,4 +1,2 @@
 ![Veselin Kostov](Kostov.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Dr. Veselin Kostov is a research scientist at NASA Goddard Space Flight Center and SETI Institute and the PI of Planet Patrol. His research focus is on detection, vetting and characterization of transiting exoplanets from Kepler, K2, and TESS, with the goal of understanding how these form, evolve, and compare to the Solar System.
