@@ -1,4 +1,2 @@
 ![Elizabeth Newton](Newton.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Elizabeth Newton is an Assistant Professor of Physics and Astronomy at the University of Dartmouth. She studies the physics of stars and their planets, using data from ground-based observatories such as SALT and MDM. She investigates how the spin and magnetic properties of stars are related, and how these stellar properties change with time. She also works to detect and characterize exoplanets around young and magnetically active stars in order to understand how exoplanets form and evolve.
