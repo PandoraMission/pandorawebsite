@@ -24,8 +24,6 @@ SmallSats are incredibly valuable for developing the next generation of space mi
 
 The Pandora mission will complete the science objectives proposed, archive the data, and publish results within a 5-year timeline. Launch would occur in the mid-2020s, although the precise timeline is dependent on a ride-sharing agreement.
 
-![](assets/TopSchedule_v02.png){: .center}
-
 Pandora is expected to operate concurrently with JWST. JWST has four science instruments with modes for observing transiting exoplanets to high precision and longer IR wavelengths; however, stellar contamination will persist for JWST transmission spectra. We anticipate the opportunity for simultaneous observations in which JWST will do short-baseline deep dives and Pandora will provide long-baseline and visible-band observations.
 
 ----
