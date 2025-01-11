@@ -28,8 +28,6 @@ The Pandora mission will complete the science objectives proposed, archive the d
 
 Pandora is expected to operate concurrently with JWST. JWST has four science instruments with modes for observing transiting exoplanets to high precision and longer IR wavelengths; however, stellar contamination will persist for JWST transmission spectra. We anticipate the opportunity for simultaneous observations in which JWST will do short-baseline deep dives and Pandora will provide long-baseline and visible-band observations.
 
-![](assets/timeline_comparison.png){: .center}
-
 ----
 ## Pandora Payload
 
