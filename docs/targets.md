@@ -10,7 +10,7 @@ The current list of science targets is given below (as of June 30, 2025). The Pa
 ![](assets/pandora_m-r_top20_06302025.png){: .center}
 
 ## Secondary Science Targets
-A set of secondary targets have also been identified as potential science targets in the case that some of the targets from the primary target list (above) are removed due to observational and mission requirement considerations. This list will be published here as the list is finalized.
+A set of secondary targets is being identified as potential science targets in the case that some of the targets from the primary target list (above) are removed due to observational and mission requirement considerations. This list will be published here as the list is finalized.
 
 ## Target Selection Methodology
 The Pandora Science Team developed a set of criteria and metrics for selecting the best set of exoplanetary targets to not only meet the mission’s requirements but to maximize the science output of Pandora’s prime mission. These metrics incorporate current knowledge about the observatory’s capabilities as well as the science questions that the mission seeks to answer.
