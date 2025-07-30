@@ -1,13 +1,13 @@
 # Pandora Targets
 
 ## Target List
-The current list of science targets is given below (as of June 30, 2025). The Pandora target list will be updated as the mission launch date approaches.
+The current list of science targets is given below (as of July 30, 2025). The Pandora target list will be updated as the mission launch date approaches.
 
-{{ read_csv('docs/assets/pandora_website_top20_06302025.csv') }}
+{{ read_csv('docs/assets/pandora_website_top20_07302025.csv') }}
 
 ## Mass-Radius Plot for Pandora Targets
 
-![](assets/pandora_m-r_top20_06302025.png){: .center}
+![](assets/pandora_m-r_top20_07302025.png){: .center}
 
 ## Secondary Science Targets
 A set of secondary targets is being identified as potential science targets in the case that some of the targets from the primary target list (above) are removed due to observational and mission requirement considerations. This list will be published here as the list is finalized.
