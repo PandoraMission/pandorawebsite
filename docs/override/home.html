@@ -226,8 +226,7 @@
         <div class="announcement-content">
             <h2>Important Announcement</h2>
             <div class="announcement-text">
-                {% set announcement = config.extra.markdown.convert(open('docs/announcement.md').read()) %}
-                {{ announcement | safe }}
+                {% include "docs/announcement.html" %}
             </div>
         </div>
     </div>
