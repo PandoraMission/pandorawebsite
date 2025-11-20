@@ -226,7 +226,9 @@
         <div class="announcement-content">
             <h2>Important Announcement</h2>
             <div class="announcement-text">
-                --8<-- "announcement.md"
+                {% filter markdown %}
+                {% include "docs/announcement.md" %}
+                {% endfilter %}
             </div>
         </div>
     </div>
