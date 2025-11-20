@@ -21,6 +21,7 @@ jobs:
       run: |
         # python -m pip install --upgrade pip
         python -m pip install poetry
+        poetry lock --no-update  # refresh lock
         poetry install
         
     - name: Create CNAME file
