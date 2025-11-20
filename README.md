@@ -2,13 +2,6 @@
 
 Website for the Pandora Mission.
 
-## WARNING: Custom domain pointing with GH-Pages deployment is temporarily down. 
-
-After every commit, the website will point to its [github.io](https://pandoramission.github.io/pandorawebsite/) domain instead of the custom domain [pandorasat.com](pandorasat.com). This means that the custom domain will be unavailable. The website team is currently investigating this issue. The current solution is as follows:
-
-- **If you have admin access**: Go to ```Settings/Pages/Custom Domain``` and add [pandorasat.com](pandorasat.com) to the empty field after your commits.
-- **If you don't have admin access**: Notify a website admin (Ben, Fuda, Christina, Naylynn) after you made commits to the website so we can repoint the domain. 
-
 ## How does the website update?
 
 The website updates via **GitHub Actions** which means **whenever a pull request is merged, the website is automatically updated to reflect the changes**. To update the website **someone with admin access needs to merge a pull request**. There are some instructions below about different ways you might want to do this.
