@@ -19,7 +19,9 @@
         %background: linear-gradient(to bottom, var(--md-primary-fg-color), hsla(260, 65%, 55%, 0.89) 99%,#fff 99%);
         background-image: url('assets/pandora-star-planet.png');
         background-repeat: no-repeat;
-    }
+        background-position: center;
+        background-size: cover;
+}
 
     .tx-hero {
         margin: 32px 2.8rem;
@@ -221,10 +223,10 @@
 </style>
 
 <!-- Announcement Box -->
-<section class="announcement-box" style="background: black;">
-    <div class="md-grid md-typeset">
+<section class="announcement-box" style="background: black; padding: 20px 0;">
+    <div class="md-grid md-typeset" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
         <div class="announcement-content">
-            <h2>Important Announcement</h2>
+            <h2 style="color: white;">Important Announcement</h2>
             <div class="announcement-text">
                 {% include "announcement.html" %}
             </div>
