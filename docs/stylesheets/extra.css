@@ -169,17 +169,3 @@ div.doc-contents:not(.first) {
     display: block;
     margin: 0 auto;
 }
-
-.announcement-box {
-    padding: 20px;
-}
-
-.announcement-content {
-    padding: 20px;
-    margin-left: 20px; /* Add left margin */
-}
-
-.announcement-text {
-    padding-left: 15px; /* Indent the text content */
-    line-height: 1.6; /* Better line spacing */
-}
