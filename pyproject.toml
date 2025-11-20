@@ -9,11 +9,11 @@ package-mode = false
 python = "^3.9"
 mkdocs = "^1.2.3"
 mkdocs-material = "^8.0.5"
-mkdocstrings = "^0.16.2"
+mkdocstrings = "^0.19.0"  # or newer
+pymdown-extensions = "^10.0"
 mkdocs-autolinks-plugin = "^0.4.0"
 mkdocs-include-markdown-plugin = "^3.2.3"
 mkdocs-table-reader-plugin = "^1.0.0"
-pymdown-extensions = "^10.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
