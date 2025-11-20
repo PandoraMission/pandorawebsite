@@ -23,6 +23,10 @@ jobs:
         python -m pip install poetry
         poetry lock # refresh lock
         poetry install
+
+    - name: Copy announcement to override directory
+      run: |
+        cp docs/announcement.html docs/override/announcement.html
         
     - name: Create CNAME file
       run: |
