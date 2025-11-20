@@ -226,9 +226,8 @@
         <div class="announcement-content">
             <h2>Important Announcement</h2>
             <div class="announcement-text">
-                {% filter markdown %}
-                {% include "docs/announcement.md" %}
-                {% endfilter %}
+                {% set announcement = config.extra.markdown.convert(open('docs/announcement.md').read()) %}
+                {{ announcement | safe }}
             </div>
         </div>
     </div>
