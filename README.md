@@ -49,6 +49,31 @@ Then use this command to serve a local copy of the website
 
 If you navigate to this URL in your browser you will see your local version of the website, and you can check that the content looks good: [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
+### Troubleshooting (local build)
+
+- If `poetry install` fails while building binary packages (common on macOS or with newer Python versions), first update build tools:
+
+```
+python -m pip install --upgrade pip setuptools wheel build
+```
+
+- If you see binary incompatibility errors between `numpy` and compiled extensions (e.g., ``ValueError: numpy.dtype size changed``), update `numpy`/`pandas` in the project lock and reinstall:
+
+```
+poetry lock
+poetry update numpy pandas
+poetry install
+```
+
+- If pandas reports a missing or old `tabulate` version (``Pandas requires version '0.9.0' or newer of 'tabulate'``), add/upgrade it explicitly:
+
+```
+poetry add tabulate@^0.9.0
+poetry install
+```
+
+- If a Jinja include fails with `TemplateNotFound`, ensure the included file is in the theme template search path. For example, copy `docs/announcement.html` to `docs/override/announcement.html` so it is available to templates.
+
 **Watch out**: If you have a fork of the website, always make sure to pull from the original repo often to get the most up to date changes before you start making any new content. You can do this using:
 
 ```
