@@ -1,0 +1,307 @@
+<!-- Custom HTML site displayed as the Home chapter -->
+
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<style>
+
+    .md-main {
+        flex-grow: 0
+    }
+
+    .md-main__inner {
+        display: flex;
+        height: 100%;
+    }
+
+    .tx-container {
+        padding-top: .0rem;
+        %background: linear-gradient(to bottom, var(--md-primary-fg-color), hsla(260, 65%, 55%, 0.89) 99%,#fff 99%);
+        background-image: url('assets/pandora-star-planet.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+}
+
+    .tx-hero {
+        margin: 32px 2.8rem;
+        color: var(--md-primary-bg-color);
+        justify-content: center;
+
+    }
+
+    .tx-hero h1 {
+        margin-bottom: 1rem;
+        color: currentColor;
+        font-weight: 700
+    }
+
+    .tx-hero__content {
+        padding-bottom: 1rem;
+        margin: 0 auto;
+    }
+
+    .tx-hero__image{
+        width:17rem;
+        height:17rem;
+        order:1;
+        padding-right: 2.5rem;
+    }
+
+    .tx-hero .md-button {
+        margin-top: .5rem;
+        margin-right: .5rem;
+        color: var(--md-primary-bg-color)
+    }
+
+    .tx-hero .md-button--primary {
+        background-color: var(--md-primary-bg-color);
+        color: hsla(280deg, 37%, 48%, 1);
+        border-color: var(--md-primary-bg-color)
+    }
+
+    .tx-hero .md-button:focus,
+    .tx-hero .md-button:hover {
+        background-color: var(--md-accent-fg-color);
+        color: var(--md-default-bg-color);
+        border-color: var(--md-accent-fg-color)
+    }
+
+    .feature-item h2 svg {
+        height: 30px;
+        float: left;
+        margin-right: 10px;
+        transform: translateY(10%);
+    }
+
+    .top-hr {
+        margin-top: 42px;
+    }
+
+    .feature-item {
+        font-family: 'Lato', sans-serif;
+        font-weight: 300;
+        box-sizing: border-box;
+        padding: 0 15px;
+        word-break: break-word
+    }
+
+    .feature-item h2 {
+        color: #333;
+        font-weight: 300;
+        font-size: 25px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        line-height: normal;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-family: inherit;
+    }
+
+    .feature-item p {
+        font-size: 16px;
+        line-height: 1.8em;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+        color: #111;
+        margin: 0 0 10px;
+        display: block;
+    }
+
+    @media screen and (max-width:30em) {
+        .tx-hero h1 {
+            font-size: 1.4rem
+        }
+    }
+
+    @media screen and (min-width:60em) {
+        .md-sidebar--secondary {
+            display: none
+        }
+
+        .tx-hero {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .tx-hero__content {
+            max-width: 22rem;
+            margin-top: 3.5rem;
+            margin-bottom: 3.5rem;
+            margin-left: 1.0rem;
+            margin-right: 4.0rem;
+            align-items: center;
+        }
+    }
+
+    @media screen and (min-width:76.25em) {
+        .md-sidebar--primary {
+            display: none
+        }
+
+        .top-hr {
+            width: 100%;
+            display: flex;
+            max-width: 61rem;
+            margin-right: auto;
+            margin-left: auto;
+            padding: 0 .2rem;
+        }
+
+        .bottom-hr {
+            margin-top: 10px;
+            width: 100%;
+            display: flex;
+            max-width: 61rem;
+            margin-right: auto;
+            margin-left: auto;
+            padding: 0 .2rem;
+        }
+
+        .feature-item {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .feature-item:hover {
+            background-color: #526cfe47;
+            border-radius: 3px;
+        }
+    }
+
+    .hr {
+        border-bottom: 1px solid #eee;
+        width: 100%;
+        margin: 20px 0;
+    }
+
+    .text-center {
+        text-align: center;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 15px;
+        font-family: 'Lato', sans-serif;
+        font-size: 23px;
+        font-weight: 300;
+        padding-bottom: 10px;
+    }
+
+    .logos {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-flow: row wrap;
+        margin: 0 auto;
+    }
+
+    .logos img {
+        flex: 1 1 auto;
+        padding: 25px;
+        max-height: 130px;
+        vertical-align: middle;
+    }
+
+    .hr-logos {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+
+    .md-footer-meta__inner {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: 1.0rem;
+    }
+
+    .md-footer-social {
+        padding-top: 20px;
+    }
+</style>
+
+<!-- Announcement Box -->
+<section class="announcement-box" style="background: black; padding: 20px 0;">
+    <div class="md-grid md-typeset" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+        <div class="announcement-content">
+            <h2 style="color: white;">Important Announcement</h2>
+            <div class="announcement-text">
+                {% include "announcement.html" %}
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Main site Entry button descriptions -->
+<section class="tx-container">
+    <div class="md-grid md-typeset">
+      <div class="tx-hero">
+        <div class="tx-hero__image">
+          <!-- <img src="assets/Pandora_starlight_transparent.png" draggable="false"> -->
+        </div>
+        <div class="tx-hero__content">
+          <img src="assets/pandoraLogo_whiteTex_blue.png" draggable="false">
+          
+          <h3>Multiwavelength Characterization of Exoplanets and their Host Stars</h3>
+          <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | striptags }}" class="md-button md-button--primary">
+            Learn More
+          </a>
+          <a href="{{ config.repo_url }}" title="{{ lang.t('source.link.title') }}" class="md-button">
+            Pandora on GitHub
+          </a>
+        </div>
+      </div>
+    </div>
+</section>
+
+<!-- Main site box descriptions -->
+<div class="top-hr" style="background-color: #f5f5f5; padding: 30px 0;">
+    <div class="feature-item">
+        <h2>
+          Pandora 
+        </h2>
+        <p> The Pandora SmallSat was selected in 2021 as an inaugural mission in NASA’s Astrophysics Pioneers Program. It includes a 0.45-meter telescope, visible-light photometry, and near-infrared spectroscopy. Pandora will launch in 2025.    </p>
+    </div>   
+    <div class="feature-item">
+        <h2>
+          Exoplanets 
+        </h2>
+        <p> Pandora will improve our understanding of exoplanet atmospheres by disentangling exoplanet signals from their host stars. It will study host star variability with long-duration observations of 20 unique planets.  </p>
+    </div> 
+    <div class="feature-item">
+        <h2>
+          Supporting JWST
+        </h2>
+        <p> Visible wavelength observations are critical for quantifying stellar contamination in exoplanet observations. Pandora’s long-baseline observations in simultaneous visible and near-infrared wavelengths complement shorter-duration infrared observations with JWST. </p>
+    </div>
+    <div class="feature-item">
+        <h2>
+          Data For Everyone
+        </h2>
+        <p> A core philosophy of the Pandora team is to ensure that the data collected and tools developed for Pandora can be valuable to the broader science community. We will make data and tools publicly available.  </p>
+    </div>
+</div>
+
+<div class="top-hr">
+    <div class="hr">
+    </div>
+</div>
+
+<!-- Contact Box -->
+<section class="contact-box">
+    <div class="md-grid md-typeset" style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+        <div class="contact-content" style="background: #334155; border-radius: 12px; padding: 30px; border-left: 4px solid #3b82f6;">
+            <h2 style="color: white; margin-top: 0;">Contact our team</h2>
+            <p style="color: #e2e8f0; margin: 10px 0;">Elisa Quintana (PI): <a href="mailto:elisa.quintana@nasa.gov" style="color: #60a5fa; text-decoration: none;">elisa.quintana@nasa.gov</a></p>
+            
+            <p style="color: #e2e8f0; margin: 10px 0;">Knicole Colón (Project Scientist): <a href="mailto:knicole.colon@nasa.gov" style="color: #60a5fa; text-decoration: none;">knicole.colon@nasa.gov</a></p>
+        </div>
+    </div>
+</section>
+
+
+{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}
