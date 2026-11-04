@@ -1,7 +1,7 @@
 # Pandora Targets
 
 ## Target List
-The current list of science targets is given below (as of July 30, 2025). The Pandora target list will be updated as the mission launch date approaches.
+The current list of science targets is given below (as of November 4, 2026). The Pandora target list will be updated as the mission launch date approaches.
 
 {{ read_csv('docs/assets/pandora_website_top20_11042026.csv') }}
 
